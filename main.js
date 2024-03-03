@@ -1,0 +1,16 @@
+console.log("Hello world");
+var message = "my Firstclass";
+console.log(message);
+var firstName = "fatima";
+var lastName = "muskaan";
+var text = "fatima";
+console.log(firstName, lastName);
+var message1 = "hi Fatima";
+console.log(message1);
+var number = "Birth Year:-2006";
+console.log(number);
+var firstName1 = "fatima";
+var age = "age is:17";
+var married, boolean = true;
+console.log(age);
+console.log(married);
